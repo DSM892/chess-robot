@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 #header {
     font-size: 40px;
 }
@@ -26,6 +30,19 @@
     align-items: center;
 }
 
+#content h1 {
+    font-size: 40px;
+}
+
+#content h2 {
+    margin: 10px 0;
+}
+
 #content p {
     width: 80%;
+    margin: 0;
+}
+
+#content ul {
+    margin: 0;
 }
