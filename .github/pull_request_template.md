@@ -1,4 +1,4 @@
-# MARGE REQUEST
+# MERGE REQUEST
 
 Explain the change in a few words:
 
